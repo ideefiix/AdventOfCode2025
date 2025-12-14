@@ -7,4 +7,5 @@ Day2Solution day2Solution = new Day2Solution();
 //day1Solution.SolvePart1();
 //day1Solution.SolvePart2();
 
-
+//day2Solution.SolvePart1();
+day2Solution.SolvePart2();
